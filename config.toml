@@ -24,14 +24,14 @@ theme = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
+    title = "Chris Ha's Machine Learning Blog"
+    subtitle = "ResNets, Unets"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "Welcome to my Blog"
       logoHomeLink = "/"
     # or
     #
