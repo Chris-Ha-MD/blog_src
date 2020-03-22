@@ -43,3 +43,7 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "About"
+    name       = "About"
+    url        = "/about"
