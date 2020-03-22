@@ -8,7 +8,7 @@ tags:
   - ResNet
 ---
 
-from paper to code
+-> from paper to code <-
 
 ## A Brief History of ResNet
 
