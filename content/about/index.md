@@ -10,4 +10,6 @@ Homepage : (here)
 
 email :  hac541309 @ gmail.com
 
+linkedin : www.linkedin.com/in/meditech-ha-00577a94
+
 twitter : @ meditech57
